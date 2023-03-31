@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  /* color: white; */
+}
+ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.spacer {
+  flex: 1 1 auto;
+}
+.new_post {
+  font-family: "Roboto", sans-serif;
+}
+.login {
+  font-family: "Roboto", sans-serif;
+  margin-left: 10pt;
+}

@@ -1,0 +1,26 @@
+mat-form-field {
+  width: 100%;
+  margin-top: 20pt;
+}
+
+mat-spinner {
+  margin: auto;
+}
+mat-card {
+  width: 70%;
+  max-width: 600px;
+  min-width: 300px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 50px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0);
+}
+.password_info {
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+  font-size: smaller;
+}
+.mat-success {
+  background-color: green;
+  color: #fff;
+}
