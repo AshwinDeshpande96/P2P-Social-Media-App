@@ -3,6 +3,8 @@
 
 This is an on-going project to build a social media app using scalable concepts from modern social media application like twitter
 
+Node.JS backend and Angular frontend are in different branches to allow CI/CD deployment on GKE
+
 * Micro-services to scale different functionalities
   * Uses Redis cache to update new posts for heavy read operations
   * Read server and Write server are scaled differently for Posts
